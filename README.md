@@ -14,7 +14,7 @@ mkdocs serve #本地运行项目
 mkdocs build #项目打包
 mkdocs gh-deploy #项目部署到github pages
 ```
-### (optional) github仓库提交
+### github仓库提交
 ```
 git add .
 git commit -m "msg"
