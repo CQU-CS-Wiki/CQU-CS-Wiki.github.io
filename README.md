@@ -1,1 +1,1 @@
-# CQU-CS-Wiki.github.io
+# CQU-CS-Wiki

@@ -1,0 +1,23 @@
+site_name: CQU-CS Wiki
+theme:
+  name: material
+  language: zh
+  palette:
+  - scheme: default
+    primary: blue
+    accent: amber
+
+nav:
+  - 前言: "index.md"
+  - 大一:
+    - 程序设计基础1: "Freshman/Basics_for_Programming1.md"
+    - 程序设计基础2: "Freshman/Basics_for_Programming2.md"
+    - 离散数学: "Freshman/Discrete_mathematics.md"
+  - 大二:
+    - 数据结构: "Sophomore/Data_Structure.md"
+    - 数字逻辑: "Sophomore/Digital_Logic.md"
+    - Java程序设计: "Sophomore/Java.md"
+    - 算法分析与设计: "Sophomore/DA_Algorithm.md"
+    - 计算机组成原理: "Sophomore/Computer_Composition.md"
+    - 数值计算: "Sophomore/Numerical_Analysis.md"
+  - 后记: "end.md"
