@@ -1,0 +1,21 @@
+123
+MIKE
+123456789123456789
+234567
+400
+Deposit and withdrawal records:
+
+take out deposit is: 100
+balance becomes: 400
+take out deposit is: 100
+balance becomes: 300
+take out deposit is: 300
+balance becomes: 0
+add deposit is: 500
+balance becomes: 500
+take out deposit is: 100
+balance becomes: 400
+add deposit is: 100
+balance becomes: 500
+take out deposit is: 100
+balance becomes: 400

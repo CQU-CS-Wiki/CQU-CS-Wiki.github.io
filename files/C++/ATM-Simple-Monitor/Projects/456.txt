@@ -1,0 +1,13 @@
+456
+JIKE
+123456789123456789
+456789
+800
+Deposit and withdrawal records:
+
+add deposit is: 100
+balance becomes: 600
+add deposit is: 100
+balance becomes: 700
+add deposit is: 100
+balance becomes: 800
