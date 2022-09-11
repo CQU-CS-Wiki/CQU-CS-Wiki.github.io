@@ -10,10 +10,10 @@
 **实验资料**：[四次实验](https://github.com/ScienceLi1125/CQU-Study/tree/main/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/%E5%AE%9E%E9%AA%8C)
 ### 课外资料
 **课外自学**：[加州伯克利UBC-CS61B](https://sp18.datastructur.es/)  
-**课外练习**：[PTA](https://pintia.cn/problem-sets) [洛谷](https://www.luogu.com.cn) [Leetcode](https://leetcode.cn)  
+**课外练习**：[PTA](https://pintia.cn/problem-sets)  ｜  [洛谷](https://www.luogu.com.cn)  ｜  [Leetcode](https://leetcode.cn)
 ## 考试信息
 笔试 2小时 闭卷  
-单选多选大题都有，最后有手写代码题。  
+单选多选大题都有，最后有手写代码题。
 ### 考试资料
 1. [20级PPT](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Data_Structure/20%E7%BA%A7PPT.zip)  
 2. [复习总结.pdf](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Data_Structure/%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93.pdf)  
