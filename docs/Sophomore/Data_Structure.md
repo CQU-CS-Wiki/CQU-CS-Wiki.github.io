@@ -15,8 +15,8 @@
 笔试 2小时 闭卷  
 单选多选大题都有，最后有手写代码题。  
 ### 考试资料
-1. [20级PPT]()  
-2. [复习总结.pdf]()  
-3. [知识点思维导图(面向期末考).xmind]()  
-4. [往年试卷]()
-5. [往年课堂小测]()
+1. [20级PPT](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Data_Structure/20%E7%BA%A7PPT.zip)  
+2. [复习总结.pdf](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Data_Structure/%E5%A4%8D%E4%B9%A0%E6%80%BB%E7%BB%93.pdf)  
+3. [知识点思维导图(面向期末考).xmind](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Data_Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.xmind)  
+4. [往年试卷](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/tree/main/files/Data_Structure/%E5%BE%80%E5%B9%B4%E8%AF%95%E5%8D%B7)
+5. [往年课堂小测](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/tree/main/files/Data_Structure/%E8%AF%BE%E5%A0%82%E5%B0%8F%E6%B5%8B)

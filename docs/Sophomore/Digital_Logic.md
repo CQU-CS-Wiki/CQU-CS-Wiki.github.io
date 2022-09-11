@@ -19,11 +19,11 @@
 题量大，代码部分建议考前背熟，不然可能来不及写  
 ### 考试资料
 #### 考试
-1. [19年期末真题]()  
-2. [20年期末真题]()  
-3. [21年期末考点]()  
+1. [19年期末真题](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Digital_Logic/2019%E5%B9%B4%E6%9C%9F%E6%9C%AB%E7%9C%9F%E9%A2%98.md)  
+2. [20年期末真题](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Digital_Logic/2020%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E8%80%83%E8%AF%95.pdf)  
+3. [21年期末考点](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Digital_Logic/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E9%87%8D%E7%82%B9.md)  
 #### 资料
-1. [常用器件Verilog语言实现(考前熟记)]()  
-2. [复习总结.pdf]()  
-3. [复习提纲合集]()  
-4. [数字逻辑预习资料]()
+1. [常用器件Verilog语言实现(考前熟记)](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Digital_Logic/%E5%B8%B8%E7%94%A8%E5%99%A8%E4%BB%B6Verilog%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0.pdf)  
+2. [20级PPT](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/tree/main/files/Digital_Logic/ppt)  
+3. [复习提纲合集](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/tree/main/files/Digital_Logic/%E5%A4%8D%E4%B9%A0%E6%8F%90%E7%BA%B2)  
+4. [数字逻辑预习资料](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/tree/main/files/Digital_Logic/%E6%95%B0%E5%AD%97%E9%80%BB%E8%BE%91%E9%A2%84%E4%B9%A0%E8%B5%84%E6%96%99)
