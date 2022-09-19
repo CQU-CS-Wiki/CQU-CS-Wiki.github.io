@@ -1,5 +1,9 @@
-# CQU-CS-Wiki.github.io
-## 如何修改
+# CQU-CS-Wiki
+这是重庆大学计算机学院的Wiki，由计算机学院学生自发维护。
+
+## 如何修改（非开发者）
+直接提交pull requests
+## 如何修改（开发者）
 ### 第一步 配置本地环境
 ```
 pip install mkdocs
