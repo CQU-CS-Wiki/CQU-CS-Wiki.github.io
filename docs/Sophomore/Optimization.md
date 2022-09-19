@@ -12,6 +12,6 @@
 ## 考试信息
 基本都是大题，题量略大，记得带计算器。**开卷**，可以把PPT打印好带过去
 ### 考试资料
-1. [PPT]()  
-2. [知识点思维导图(面向期末考).xmind]()  
-3. [期末复习PPT]()
+1. [PPT](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Optimization/PPT.zip)  
+2. [知识点思维导图(面向期末考).xmind](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Optimization/%E6%9C%80%E4%BC%98%E5%8C%96%E5%AF%BC%E8%AE%BA.xmind)  
+3. [期末复习PPT](https://github.com/CQU-CS-Wiki/CQU-CS-Wiki.github.io/blob/main/files/Optimization/%E6%9C%80%E4%BC%98%E5%8C%96%E6%8A%80%E6%9C%AF%E5%A4%8D%E4%B9%A0.pptx)
