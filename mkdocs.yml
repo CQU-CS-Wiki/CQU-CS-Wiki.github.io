@@ -20,4 +20,5 @@ nav:
     - 算法分析与设计: "Sophomore/DA_Algorithm.md"
     - 计算机组成原理: "Sophomore/Computer_Composition.md"
     - 数值计算: "Sophomore/Numerical_Analysis.md"
+    - 最优化导论: "Sophomore/Optimization.md"
   - 后记: "end.md"
